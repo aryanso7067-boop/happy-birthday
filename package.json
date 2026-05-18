@@ -4,7 +4,7 @@
   "description": "Birthday greetings..",
   "main": " ",
   "scripts": {
-    "server-node": "http-server -p 8081"
+    "dev": "npx serve -l 3000"
   },
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
   "keywords": [
     "Birthday"
   ],
-  "author": "Aryan Sharma",
+  "author": "Aryan Soni",
   "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/aryan/birthday/issues"
